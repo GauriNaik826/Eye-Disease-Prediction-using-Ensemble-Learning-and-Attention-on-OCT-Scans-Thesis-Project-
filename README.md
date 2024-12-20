@@ -1,4 +1,4 @@
-]# Eye Disease Prediction using Ensemble Learning and Attention on OCT Scans
+# Eye Disease Prediction using Ensemble Learning and Attention on OCT Scans
 
 ## Abstract
 Eye diseases have posed significant challenges for decades, but advancements in technology have opened new avenues for their detection and treatment. Machine learning and deep learning algorithms have become instrumental in this domain, particularly when combined with Optical Coherent Technology (OCT) imaging. 
